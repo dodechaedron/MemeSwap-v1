@@ -20,9 +20,9 @@ const Wrapper = styled.div`
     position: absolute;
     top: 0px;
     right: 0px;
-    bottom: calc(100vh - 285px);
+    bottom: calc(100vh - 10px);
     left: 0px;
-    background: url(/images/1tronic/decoration-back.svg) center center;
+    background: url(/images/1tronic/mascott.svg) center center;
     opacity: .07;
   }
 `;
